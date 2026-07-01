@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0609/l/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明覺聰禪師語錄
+  edition:
+    short: l
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L158/L158n1652.xml
+    old_id: L158n1652
+hash: sha256:03f2c138f822205e316c40d6257906a5a3dcdf69d155c33a441f3c8ba8857963
